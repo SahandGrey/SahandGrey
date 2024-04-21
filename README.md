@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SahandGrey
+- 👀 I’m interested in AI and machine learning
+- 🌱 I’m currently learning Python, Java, HTML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Telegram or discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Did you know that the term "bug" in programming originated from an actual bug?
+- In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, 
+- causing a malfunction. She then taped the moth into the logbook and labeled it as the "first actual case of bug being found." This incident led to the use of the term "debugging" for fixing code errors.
+- I pretty much know a little about python, C++, and HTML so yeah...
